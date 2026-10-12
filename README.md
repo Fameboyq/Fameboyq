@@ -21,6 +21,7 @@
 ### 🚀 Featured Projects / Проекты
 
 | Project | Description | Stack |
+| :--- | :--- | :--- |
 | 🛠️ **[windows-gaming-optimizer](https://github.com/Fameboyq/windows-gaming-optimizer)** | 1-Click Windows 10/11 Gaming Optimizer, Ultimate Performance & Latency Debloater | Batch, PowerShell, Reg |
 | 📥 **[telegram-media-downloader-bot](https://github.com/Fameboyq/telegram-media-downloader-bot)** | High-speed bot for watermark-free video downloads (TikTok, Reels, Shorts, Pinterest) | Python, aiogram 3.x, yt-dlp |
 | 🎮 **[gamer-server-discord-rpc](https://github.com/Fameboyq/gamer-server-discord-rpc)** | Auto-detects Minecraft server IP (FunTime, ReallyWorld, Hypixel) & CS2 live match stats | Python, Discord IPC |
