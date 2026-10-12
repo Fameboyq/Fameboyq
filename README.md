@@ -27,6 +27,7 @@
 | 💜 **[vencord-violet-theme](https://github.com/Fameboyq/vencord-violet-theme)** | Clean aesthetic White & Violet theme for Vencord, BetterDiscord and Vesktop | CSS, Vencord |
 | 💬 **[telegram-anon-chat-bot](https://github.com/Fameboyq/telegram-anon-chat-bot)** | Full-featured async Anonymous Chat Telegram Bot with media support & Star payments | Python, aiogram 3.x, SQLite |
 | ⛏️ **[WirexClient](https://github.com/Fameboyq/wirex-launcher)** | Custom Minecraft 1.21 client & launcher architecture | Java, Fabric, Gradle |
+| 🚀 **[minecraft-fps-booster](https://github.com/Fameboyq/minecraft-fps-booster)** | 1.21.4 Performance booster, low-latency JVM flags, cache cleaner & Sodium preset | Python, Batch, Sodium |
 
 ---
 
