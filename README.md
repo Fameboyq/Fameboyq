@@ -22,6 +22,8 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
+| 🖼️ **[steam-artwork-cropper](https://github.com/Fameboyq/steam-artwork-cropper)** | Pixel-perfect Steam Profile Artwork Showcase auto-slicer for images & animated GIFs | Python, Pillow |
+| 🖤 **[spicetify-monochrome-theme](https://github.com/Fameboyq/spicetify-monochrome-theme)** | Ultra-clean minimalist Black & White theme for Spotify desktop (Spicetify CLI) | CSS, Spicetify |
 | ♟️ **[chess-com-discord-rpc](https://github.com/Fameboyq/chess-com-discord-rpc)** | Real-time Chess.com Discord Rich Presence (Match status, turn, rating & timers) | Python, Discord IPC |
 | 🛠️ **[windows-gaming-optimizer](https://github.com/Fameboyq/windows-gaming-optimizer)** | 1-Click Windows 10/11 Gaming Optimizer, Ultimate Performance & Latency Debloater | Batch, PowerShell, Reg |
 | 📥 **[telegram-media-downloader-bot](https://github.com/Fameboyq/telegram-media-downloader-bot)** | High-speed bot for watermark-free video downloads (TikTok, Reels, Shorts, Pinterest) | Python, aiogram 3.x, yt-dlp |
